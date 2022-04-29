@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, I'm Kelly! 👋
+
+- ✨ Aspiring Front End Developer
+- 🐶 loves cooking, hiking with my kids, and my dog, Ghazal
+- 😄 Pronouns: she/her/hers
+- 📍 Colorado Springs, Colorado
+
+### 🚀 What I'm up to:
+- 🔭 I just finsihed a group project, Cocktail Creations! Check it out -- https://github.com/JesusRodriguezDev/Cocktail_Creations
+- 🌱 I’m currently learning Full Stack Development through the coding bootcamp at the University of Denver (expected completion 8.2022)
+- 👯 I’m looking to collaborate on coding projects that will help me fine tune my skills as a developer.
+
+### 🤝 Connect with me:
+- Email: kellywalsh827@gmail.com
+- Linked In: https://www.linkedin.com/in/kellywalsh001/
