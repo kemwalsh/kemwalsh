@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### 🚀 What I'm up to:
 - 🔭 I just finished some group projects, Cocktail Creations and DevSpot! Check them out
+- https://toystalgic.herokuapp.com/
 - https://github.com/JesusRodriguezDev/Cocktail_Creations
 - https://glacial-lowlands-31637.herokuapp.com/
 - 🌱 I’m currently learning Full Stack Development through the coding bootcamp at the University of Denver (expected completion 8.2022)
