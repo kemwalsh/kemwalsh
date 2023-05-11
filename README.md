@@ -14,17 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hey, I'm Kelly! 👋
-
-- 🐶 loves cooking, hiking with my kids, and my dog, Ghazal
-- 😄 Pronouns: she/her/hers
 - 📍 Colorado Springs, Colorado
 
-### 🚀 What I'm up to:
-- 🔭 Some group projects: Toystalgic, Cocktail Creations and DevSpot! Check them out
-- https://toystalgic.herokuapp.com/
-- https://github.com/JesusRodriguezDev/Cocktail_Creations
-- https://glacial-lowlands-31637.herokuapp.com/
-
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 - Email: kellywalsh827@gmail.com
 - Linked In: https://www.linkedin.com/in/kellywalsh001/
