@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Kelly! 👋
 - 📍 Colorado Springs, Colorado
-
-## 🤝 Connect with me:
 - Email: kellywalsh827@gmail.com
 - Linked In: https://www.linkedin.com/in/kellywalsh001/
